@@ -1,7 +1,11 @@
 tip_calculator
 ==============
 
-This repo contains the first week assignment the tip calculator.
+This repo contains the first week assignment the TipCalculator.
+
+Time spent : 2 hours
+
+Completed User Stories:
 
    * User is displayed the tip of specified percentage for specified entered amount  
    * User enters the total amount of the transaction
